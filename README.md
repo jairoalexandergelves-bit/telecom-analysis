@@ -1,4 +1,4 @@
-<img width="489" height="352" alt="imagen" src="https://github.com/user-attachments/assets/749ce411-0abf-46d0-924e-1b5642c2efdd" /><img width="489" height="352" alt="imagen" src="https://github.com/user-attachments/assets/02b80c79-de82-4b8e-8815-8dfd35cdd620" /># 📡 Análisis ConnectaTel
+ConnectaTel
 
 Análisis exploratorio, limpieza y segmentación de clientes de **ConnectaTel**, una empresa de telecomunicaciones de Latinoamérica. Proyecto final del Sprint 7 (Python + pandas).
 
