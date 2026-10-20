@@ -52,6 +52,7 @@ Evaluar el comportamiento de los clientes con información registrada hasta **20
 
 **Distribución por plan:** Básico 64,9 % · Premium 35,1 %.
 
+
 **Segmentos por edad**
 
 <img width="485" height="352" alt="imagen" src="https://github.com/user-attachments/assets/85d7937a-9e7e-4983-8b3a-e26a11d4045b" />
